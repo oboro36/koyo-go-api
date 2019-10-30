@@ -1,2 +1,9 @@
 # koyo-go-api
-server side for koyo
+
+Back-end source file for KOYO :maple_leaf:
+
+Base on:
+
+-Echo (Framework)
+
+-JWT :key:
