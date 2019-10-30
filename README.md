@@ -2,7 +2,7 @@
 
 Back-end source file for KOYO :maple_leaf:
 
-Base on:
+Based on:
 
 -Echo (Framework)
 
