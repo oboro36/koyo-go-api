@@ -13,7 +13,7 @@ func WriteCookie(c echo.Context) error {
 	name := c.FormValue("username")
 	token := c.FormValue("token")
 	cookie := new(http.Cookie)
-	cookie.Name = name
+	cookie.Name = "loginToken"
 	cookie.Value = token
 	cookie.Expires = time.Now().Add(10 * time.Minute)
 	cookie.Path = "/"
