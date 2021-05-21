@@ -1,6 +1,6 @@
 # koyo-go-api
 
-Back-end source file for KOYO :maple_leaf:
+Back-end source file for app testing
 
 Based on:
 
